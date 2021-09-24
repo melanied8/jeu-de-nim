@@ -1,5 +1,6 @@
 # jeu-de-nim
 
+Dans le cadre du cours de programmation en C, nous avons dû coder un jeu de nim en langage C.
 ## Autrices :
 Laurie BRAL
 Mélanie Dang
